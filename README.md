@@ -4,7 +4,7 @@ This chatbot identifies plants from images and provides care tips using AI.
 ## Features  
 - Image recognition  
 - AI-powered care recommendations  
-- Built with Python, Streamlit, and OpenAI API  
+- Built with Python, Streamlit, and Gemini API  
 
 ## How to Run  
 1. Clone the repo:  
